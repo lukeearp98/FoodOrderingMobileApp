@@ -1,0 +1,64 @@
+{
+  "menuItems":[
+    {
+      "Category":"Appetiser",
+      "Name":"Potato Skins",
+      "Description":"Small serving of stuffed potato skins.",
+      "Price":"1.00"
+    },
+    {
+      "Category":"Appetiser",
+      "Name":"Pea Soup",
+      "Description":"Creamy pea soup topped with melted cheese and sourdough croutons.",
+      "Price":"2.00"
+    },
+    {
+      "Category":"Appetiser",
+      "Name":"Fried Asparagus",
+      "Description":"Fresh asparagus lightly battered and quick-fried. Topped with crumbled queso fresco, chopped cilantro.",
+      "Price":"2.99"
+    },
+    {
+      "Category":"Main",
+      "Name":"House Salad",
+      "Description":"Freshly diced tomatoes, red onion, shredded carrots, cucumbers, 3-cheese blend.",
+      "Price":"2.99"
+    },
+    {
+      "Category":"Main",
+      "Name":"Macaroni Cheese",
+      "Description":"Macaroni pasta with creamy cheddar.",
+      "Price":"2.99"
+    },
+    {
+      "Category":"Main",
+      "Name":"Spaghetti Bolognese",
+      "Description":"Freshly cooked spaghetti with a spicy italian tomato sauce.",
+      "Price":"2.99"
+    },
+    {
+      "Category":"Main",
+      "Name":"Pesto Chicken",
+      "Description":"Chicken and rice flavoured with green pesto.",
+      "Price":"2.99"
+    },
+    {
+      "Category":"Dessert",
+      "Name":"Triple Berry Crumble Cake",
+      "Description":"blueberries baked with rich buttercake topped with streusel and finished with vanilla ice cream, strawberry sauce.",
+      "Price":"2.99"
+    },
+    {
+      "Category":"Dessert",
+      "Name":"Melt In The Middle Choc",
+      "Description":"Chocolate Sponge with volcanic chocolate in the center.",
+      "Price":"2.99"
+    },
+    {
+      "Category":"Dessert",
+      "Name":"Strawberry Cheesecake",
+      "Description":"Vanilla cheesecake with fresh strawberries on top.",
+      "Price":"2.99"
+    }
+  ]
+}
